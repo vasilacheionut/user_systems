@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>User Systems - Register</title>
+</head>
+
+<body>
+    <h1>This is the Register page.</h1>
 <style>
     input, button{
         display: block;

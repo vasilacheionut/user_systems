@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>User Systems - Login</title>
+</head>
+
+<body>
+    <h1>This is the Login page.</h1>
 <style>
     input, button{
         display: block;
